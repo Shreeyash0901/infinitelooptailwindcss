@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/infinitelooptailwindcss/static/css/main.1105e90c.css",
-    "main.js": "/infinitelooptailwindcss/static/js/main.5c377780.js",
+    "main.css": "/infinitelooptailwindcss/static/css/main.12ef0e96.css",
+    "main.js": "/infinitelooptailwindcss/static/js/main.609abe4c.js",
     "static/js/453.07fc8f6e.chunk.js": "/infinitelooptailwindcss/static/js/453.07fc8f6e.chunk.js",
     "static/media/infinite-loop-01.jpg": "/infinitelooptailwindcss/static/media/infinite-loop-01.be944baac95166cfec8a.jpg",
     "static/media/infinite-loop-02.jpg": "/infinitelooptailwindcss/static/media/infinite-loop-02.3cf007b0145ee7813b7a.jpg",
@@ -17,12 +17,12 @@
     "static/media/slick.ttf": "/infinitelooptailwindcss/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/infinitelooptailwindcss/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/infinitelooptailwindcss/index.html",
-    "main.1105e90c.css.map": "/infinitelooptailwindcss/static/css/main.1105e90c.css.map",
-    "main.5c377780.js.map": "/infinitelooptailwindcss/static/js/main.5c377780.js.map",
+    "main.12ef0e96.css.map": "/infinitelooptailwindcss/static/css/main.12ef0e96.css.map",
+    "main.609abe4c.js.map": "/infinitelooptailwindcss/static/js/main.609abe4c.js.map",
     "453.07fc8f6e.chunk.js.map": "/infinitelooptailwindcss/static/js/453.07fc8f6e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1105e90c.css",
-    "static/js/main.5c377780.js"
+    "static/css/main.12ef0e96.css",
+    "static/js/main.609abe4c.js"
   ]
 }
